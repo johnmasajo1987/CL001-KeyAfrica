@@ -21,7 +21,7 @@
 /* 1. Theme default css */
 /* line 5, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -73,7 +73,7 @@ button {
 
 /* line 39, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #001D38;
 }
 
@@ -589,7 +589,8 @@ h3 {
 
 /* line 110, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_btn.scss */
 .boxed-btn3-line:hover {
-  color: #F3ECDD !important;
+  /* color: #F3ECDD !important; */
+  color: #001D38 !important;
   border: 1px solid transparent;
   background: #FFC601;
 }
@@ -913,6 +914,7 @@ h3 {
 .header-area .main-header-area {
   padding: 7px 0;
   background: #eaddc3;
+  /* background: #c0c7ca; */
 }
 
 @media (max-width: 767px) {
@@ -1032,6 +1034,7 @@ h3 {
 /* line 100, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .socail_links ul li a:hover {
   color: #F3ECDD;
+  /* color: #001D38; */
 }
 
 /* line 107, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
@@ -1112,13 +1115,13 @@ h3 {
 
 /* line 158, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #596672;
+  color: #FFC601;
   font-size: 16px;
   text-transform: capitalize;
   font-weight: 400;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1237,8 +1240,9 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: rgba(255, 255, 255, 0.96);
-  background: #F3ECDD;
+  /* background: rgba(255, 255, 255, 0.96); */
+  /* background: #F3ECDD; */
+  background: #0b2d36;
 }
 
 @media (max-width: 767px) {
@@ -1273,7 +1277,8 @@ h3 {
 /* line 320, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .header-top_area {
   padding: 17px 0;
-  background: #F3ECDD;
+  /* background: #F3ECDD; */
+  background: #0b2d36;
   border-bottom: 1px solid #EAEAEA;
 }
 
@@ -1323,8 +1328,9 @@ h3 {
 
 /* line 353, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li a {
-  font-size: 13px;
-  color: #919191;
+  font-size: 16px;
+  /* color: #919191; */
+  color: #FFC601;
   margin-right: 50px;
 }
 
@@ -1356,11 +1362,11 @@ h3 {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  font-size: 15px;
+  font-size: 12px;
   text-align: center;
   line-height: 35px;
   display: inline-block;
-  color: #F3ECDD;
+  color: #001D38;
 }
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
