@@ -177,7 +177,7 @@ h3 {
 
 /* line 118, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
 .black-bg {
-  background: #020c26 !important;
+  background: #0013D8 !important;
 }
 
 /* line 122, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
@@ -1122,7 +1122,7 @@ h3 {
   font-weight: 400;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1243,7 +1243,8 @@ h3 {
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
   /* background: rgba(255, 255, 255, 0.96); */
   /* background: #F3ECDD; */
-  background: #0b2d36;
+  /* background: #0b2d36; */
+  background: #001D38; 
 }
 
 @media (max-width: 767px) {
