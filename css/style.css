@@ -1386,7 +1386,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/bg-keyaf-2.jpg);
+  background-image: url(../img/bg-trade-index.jpg);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
@@ -2141,7 +2141,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_testmonial.scss */
 .testimonial_area {
-  background-image: url(../img/bg-keyaf-2.JPG);
+  background-image: url(../img/bg-trade-index.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2164,6 +2164,7 @@ h3 {
   -moz-border-radius: 10px;
   border-radius: 10px;
   padding: 50px 60px 66px 60px;
+  opacity: 70%;
 }
 
 @media (max-width: 767px) {
