@@ -494,7 +494,8 @@ h3 {
   border: 0;
   border: 1px solid transparent;
   text-align: center;
-  color: #F3ECDD !important;
+  /* color: #F3ECDD !important; */
+  color: #003566 !important;
   text-transform: capitalize;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -1437,9 +1438,11 @@ h3 {
 
 /* line 37, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_area .single_slider.single_slider2 .property_wrap .slider_text h3 {
-  font-size: 60px;
+  /* font-size: 60px; */
+  font-size: 50px;
   line-height: 80px;
-  margin-bottom: 51px;
+  /* margin-bottom: 51px; */
+  margin-bottom: 30px;
 }
 
 /* line 43, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
@@ -1471,14 +1474,15 @@ h3 {
 /* line 59, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   font-family: "Poppins", sans-serif;
-  font-size: 60px;
+  font-size: 50px;
   text-transform: capitalize;
   letter-spacing: 0;
   font-weight: 600;
   line-height: 70px;
   margin-bottom: 30px;
   color: #F3ECDD;
-  margin-top: 31px;
+  /* margin-top: 31px; */
+  margin-top: 15px;
 }
 
 /* line 69, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
@@ -4954,8 +4958,9 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 153, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right {
-  font-size: 15px;
-  color: #596672;
+  font-size: 13px;
+  /* color: #596672; */
+  color: #ffc601;
   margin-bottom: 0;
   font-weight: 500;
 }
