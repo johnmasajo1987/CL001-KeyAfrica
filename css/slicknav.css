@@ -252,5 +252,6 @@
 }
 
 .slicknav_icon-bar {
-	background: #FF3414 !important;
+	/* background: #FF3414 !important; */
+  background: #ffc601 !important;
 }
