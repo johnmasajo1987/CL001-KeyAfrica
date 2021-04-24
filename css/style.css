@@ -1164,7 +1164,8 @@ h3 {
 
 /* line 214, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a:hover {
-  color: #FFC601;
+  /* color: #FFC601; */
+  color: white;
 }
 
 /* line 218, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
@@ -1172,7 +1173,8 @@ h3 {
   position: absolute;
   left: 0;
   top: 160%;
-  background: #eaddc3;
+  /* background: #eaddc3; */
+  background: #003566;
   width: 200px;
   z-index: 2;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
@@ -1199,7 +1201,8 @@ h3 {
   -o-transition: 0.3s;
   transition: 0.3s;
   display: block;
-  color: #000;
+  /* color: #000; */
+  color: #ffc601;
 }
 
 /* line 238, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
@@ -1209,7 +1212,8 @@ h3 {
 
 /* line 242, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li:hover a {
-  color: #000;
+  /* color: #000; */
+  color: white; 
 }
 
 /* line 247, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
@@ -2154,7 +2158,8 @@ h3 {
 
 /* line 12, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_testmonial.scss */
 .testimonial_area .testmonial_active {
-  background: #F3ECDD;
+  /* background: #F3ECDD; */
+  background: #ADD6FF;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
